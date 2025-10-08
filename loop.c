@@ -393,17 +393,17 @@
 // //  }
 
 
-#include<stdio.h>
+// #include<stdio.h>
  
- int main(){
+//  int main(){
 
-   for(int row=1; row<=4; row++){
-      for( int col=row; col>=4-row; col--){
-         printf("*");
-      }
-      printf("\n");
-   }
+//    for(int row=1; row<=4; row++){
+//       for( int col=row; col>=4-row; col--){
+//          printf("*");
+//       }
+//       printf("\n");
+//    }
   
      
-}
+// }
  
